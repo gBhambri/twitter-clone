@@ -26,7 +26,6 @@ function Feed() {
                 avatar={post.avatar}
                 image={post.image}
                 >
-
                 </Post>
             ))}
         </div>
